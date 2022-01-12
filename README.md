@@ -1,0 +1,3 @@
+# Python-Dataset-Exploration-US-BikeShare
+
+Dataset exploration using Python code to import US bikeshare data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics..
